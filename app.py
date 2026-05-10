@@ -9,13 +9,13 @@ MOTHERSDAYCARD/
 │
 ├── app.py
 ├── requirements.txt
-├── cover.jpg
-├── photo1.jpg
-├── photo2.jpg
-├── photo3.jpg
-├── photo4.jpg
-├── photo5.jpg
-└── last.jpg
+├── cover.jfif
+├── photo1.jfif
+├── photo2.jfif
+├── photo3.jfif
+├── photo4.jfif
+├── photo5.jfif
+└── last.png
 ```
 
 ---
@@ -217,32 +217,32 @@ body{
   </div>
 
   <div class="page" style="z-index:6;">
-    <img src="photo1.jpg" class="full-img">
+    <img src="photo1.jfif" class="full-img">
     <div class="short-text">என் உலகம் 💖</div>
   </div>
 
   <div class="page" style="z-index:5;">
-    <img src="photo2.jpg" class="full-img">
+    <img src="photo2.jfif" class="full-img">
     <div class="short-text">என் அம்மா 🌸</div>
   </div>
 
   <div class="page" style="z-index:4;">
-    <img src="photo3.jpg" class="full-img">
+    <img src="photo3.jfif" class="full-img">
     <div class="short-text">என்  செல்லம்  ✨</div>
   </div>
 
   <div class="page" style="z-index:3;">
-    <img src="photo4.jpg" class="full-img">
+    <img src="photo4.jfif" class="full-img">
     <div class="short-text">என் தேவதைோ 👑</div>
   </div>
 
   <div class="page" style="z-index:2;">
-    <img src="photo5.jpg" class="full-img">
+    <img src="photo5.jfif" class="full-img">
     <div class="short-text">என்றும் அன்பு 💕</div>
   </div>
 
   <div class="page" style="z-index:1;">
-    <img src="last.jpg" class="full-img">
+    <img src="last.png" class="full-img">
     <div class="short-text">LOVE U அம்மா 🥺</div>
   </div>
 
